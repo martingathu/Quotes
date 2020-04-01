@@ -1,0 +1,24 @@
+
+<div class="container">
+  <div class="heading">
+    <h1>Quote of the Day</h1>
+  </div>
+   <hr>
+  <div class="row">
+    <div class="col-md-6">
+      <div *ngFor='let quote of quotes; let i=index'>
+        <div class="quote" >
+          <h4 id={{i}} appHighlight>{{quote.name}}</h4> 
+          <app-quote-detail *ngIf='quote.showDescription' [quote]='quote' (isComplete) = 'deleteQuote($event,i)'></app-quote-detail>
+          <button (click)='toggleDetails(i)' class="btn btn-primary">Details</button>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-6">
+      <app-quote-form (addQuote)="addNewQuote($event)"></app-quote-form>
+    </div>
+  </div>  
+</div> 
+ 
+
+       
