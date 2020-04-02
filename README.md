@@ -1,7 +1,7 @@
 # Quote of the Day
 #### By **Karanja Martin Gathu** 27TH March 2020
 ## Description
-A web application for a quotesm that will help people get inspiration and also inspire others through adding their own quotes. Users can also be able to upvote or downvote the quotes and the quote with the highest upvote will be highlighted.
+A web application for a quotes, that will help people get inspiration and also inspire others through adding their own quotes. Users can also be able to upvote or downvote the quotes and the quote with the highest upvote will be highlighted.
 
 ## Setup/Installation Requirements
 + Clone this repository [Quotes](https://github.com/martingathu/Quotes)
