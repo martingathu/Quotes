@@ -1,7 +1,7 @@
 # Quote of the Day
 #### By **Karanja Martin Gathu** 27TH March 2020
 ## Description
-Legends Pizza Inn is a website that allows user to place Pizza order of their choise according to type, size, and type of toppings and crust they want.With the user input the website calculates the total amount in respect to how many pizzas the want.
+A web application for a quotesm that will help people get inspiration and also inspire others through adding their own quotes. Users can also be able to upvote or downvote the quotes and the quote with the highest upvote will be highlighted.
 
 ## Setup/Installation Requirements
 + Clone this repository [Quotes](https://github.com/martingathu/Quotes)
