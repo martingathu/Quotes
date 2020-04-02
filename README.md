@@ -14,8 +14,6 @@ No known bugs at the moment
 + HTML
 + CSS
 + Bootstrap
-+ JavaScript
-+ JQuery
 
 ## GitHub link
 To open Quote of the Day [Click Here](https://martingathu.github.io/Quotes/)
