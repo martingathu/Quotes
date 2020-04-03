@@ -19,3 +19,11 @@ h1{
     padding-bottom: 2%;
     color: orchid;
 }
+.main{
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+}
+.container-fluid{
+    background-color: whitesmoke;
+}
